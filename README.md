@@ -14,8 +14,8 @@ Not only can Watson analyze uploaded support site chat log transcripts, but it c
 
 Mine your existing data to do one of the following things:
 
-*Get intent recommendations
-*Get intent user example recommendations
+* Get intent recommendations
+* Get intent user example recommendations
 
 
 **Choosing an Intent Recommendations Data Source**
