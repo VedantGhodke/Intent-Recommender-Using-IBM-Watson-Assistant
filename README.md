@@ -1,4 +1,4 @@
-Intent Recommender Using IBM Watson Assistant
+# Intent Recommender Using IBM Watson Assistant
 
 Watson can recommend some initial intents for you to start with. If you already created some intents, Watson can analyze your logs and compare its findings with your existing intents. Based on what it learns, Watson can identify gaps in your training data and suggest new intents to fill them.
 
